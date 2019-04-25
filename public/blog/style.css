@@ -1,0 +1,22 @@
+body {
+    background-color: darkcyan;   
+}
+
+#blog-title {
+    color: red;
+    font-weight: bolder;
+    text-align: center;
+    float: center;
+}
+
+.post-title {
+    color: red;
+}
+
+.post-content {
+    color: white;
+}
+
+.post-content a {
+    color: black;
+}
